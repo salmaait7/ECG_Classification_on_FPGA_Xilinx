@@ -1,5 +1,0 @@
-# Ignore everything
-*
-
-# Allow the Model folder
-!Model/
